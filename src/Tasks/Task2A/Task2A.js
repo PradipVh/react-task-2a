@@ -26,7 +26,7 @@ function Task2A() {
                         <label>FirstName</label>
                         <input type="text" className="form-control" placeholder="First name" />
                     </div>
-                    <div className="col-md-6">
+                    <div className="col-md-6  mt-3 mt-md-0">
                         <label>LastName</label>
                         <input type="text" className="form-control" placeholder="Last name" />
                     </div>
